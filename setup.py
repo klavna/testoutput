@@ -1,9 +1,9 @@
 import setuptools
 
 setuptools.setup(
-  include_package_data = true,
+  include_package_data = True,
   name = '546lkji',
-  verison='0.0.2',
+  verison='0.0.3',
   description='oss-dev my output 1234',
   author='546lkji',
   author_email='546lkji@gmail.com', 
