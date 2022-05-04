@@ -8,7 +8,6 @@ setuptools.setup(
   author='546lkji',
   author_email='546lkji@gmail.com', 
   url = 'https://github.com/klavna/testoutput/new/main',
-  download_url='
   install_requires=['pytest'],
   long_description = 'oss-dev output python module',
   long_description_content_type = 'text/markdown',
